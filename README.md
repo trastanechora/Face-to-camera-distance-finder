@@ -3,7 +3,7 @@
 Adalah sebuah projek aplikasi pengukur jarak antara wajah dengan kamera webcam, menggunakan opencv2 dengan module cascade.
 
 Untuk penjelasan lebih detail mengenai script silahkan buka Jupyter Notebook vie link berikut:
-[inSign.ipynb online viewer](https://github.com/trastanechora/Face-to-camera-distance-finder/face.ipynb)
+[ipynb online viewer](https://nbviewer.jupyter.org/github/trastanechora/Face-to-camera-distance-finder/blob/master/face.ipynb)
 
 Framework yang digunakan untuk pengimplementasian Face detection ini bisa ditemukan di link berikut:
 
